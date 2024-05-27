@@ -1,0 +1,40 @@
+Allow: /wishlist/universal*
+Allow: /wishlist/vendor-button*
+Allow: /wishlist/get-button*
+Allow: /gp/wishlist/universal*
+Allow: /gp/wishlist/vendor-button*
+Allow: /gp/wishlist/ipad-install*
+Allow: /gp/dmusic/promotions/PrimeMusic
+Allow: /gp/dmusic/promotions/AmazonMusicUnlimited
+
+other 
+Google:
+
+URL: https://www.google.com/robots.txt
+Amazon:
+
+URL: https://www.amazon.com/robots.txt
+Wikipedia:
+
+URL: https://www.wikipedia.org/robots.txt
+Twitter:
+
+URL: https://www.twitter.com/robots.txt
+BBC:
+
+URL: https://www.bbc.com/robots.txt
+New York Times:
+
+URL: https://www.nytimes.com/robots.txt
+GitHub:
+
+URL: https://www.github.com/robots.txt
+Reddit:
+
+URL: https://www.reddit.com/robots.txt
+Stack Overflow:
+
+URL: https://stackoverflow.com/robots.txt
+IMDB:
+
+URL: https://www.imdb.com/robots.txt
